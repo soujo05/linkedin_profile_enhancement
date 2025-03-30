@@ -1,0 +1,197 @@
+{
+    "success": true,
+    "credits_left": 49,
+    "rate_limit_left": 98,
+    "person": {
+        "publicIdentifier": "rudransh-karan",
+        "linkedInIdentifier": "ACoAAEReYRgBuP7F5UEvn3znqU6fHAhe6qhoFw8",
+        "memberIdentifier": "1147035928",
+        "linkedInUrl": "https://www.linkedin.com/in/rudransh-karan",
+        "firstName": "Rudransh",
+        "lastName": "Karan",
+        "headline": "Ex-Gen AI Developer Intern at HiDevs | AI & ML Enthusiast | CSE Student @ NMIT",
+        "location": "Bengaluru, Karnataka, India",
+        "summary": "I am a Generative AI enthusiast with a strong interest in LLMs, RAG pipelines, and AI-driven automation. I have experience developing AI-powered tools, data-driven applications, and intelligent systems that enhance productivity and decision-making.\n\nCurrently exploring AI agents, I enjoy building solutions that integrate Generative AI, Machine Learning, and automation. I stay updated with emerging technologies and continuously seek ways to apply AI to real-world challenges.\n\nProficient in Python, FastAPI, LangChain, Llama 3/Gemini, ChromaDB, and Streamlit, I thrive on collaborating and innovating in the ever-evolving AI landscape. Let’s connect and explore new ideas! 🚀",
+        "photoUrl": "https://media.licdn.com/dms/image/v2/D5603AQEysCEVzaW9Jg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690890812694?e=1748476800&v=beta&t=eUnpfyYpHzNg9ENztvJ2dsyvYozHAkL-mqmEu5IgHMU",
+        "backgroundUrl": "https://media.licdn.com/dms/image/v2/D5616AQFz2zv9Pxi-KQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690891226975?e=1748476800&v=beta&t=emlHH3WgP1pK_wXh1S1YKQuE2pHb06vWzkN0k3fE_gU",
+        "openToWork": false,
+        "premium": false,
+        "pronoun": "HE_HIM",
+        "showVerificationBadge": true,
+        "creationDate": {
+            "month": 6,
+            "year": 2023
+        },
+        "followerCount": 796,
+        "positions": {
+            "positionsCount": 1,
+            "positionHistory": [
+                {
+                    "title": "GenAI Developer Intern",
+                    "companyName": "HiDevs",
+                    "companyLocation": "Bengaluru, Karnataka, India · Remote",
+                    "description": "",
+                    "startEndDate": {
+                        "start": {
+                            "month": 11,
+                            "year": 2024
+                        },
+                        "end": {
+                            "month": 2,
+                            "year": 2025
+                        }
+                    },
+                    "contractType": "Internship",
+                    "companyLogo": "https://media.licdn.com/dms/image/v2/D560BAQGUNHkQxh4vnw/company-logo_400_400/company-logo_400_400/0/1730992031575/hidevs_gen_ai_workforce_logo?e=1748476800&v=beta&t=iWDNgPDK4ktvJxVNJlXyquQ4Rr-LlZoOb19qUj8noP8",
+                    "linkedInUrl": "https://www.linkedin.com/company/92483465/",
+                    "linkedInId": "92483465"
+                }
+            ]
+        },
+        "schools": {
+            "educationsCount": 3,
+            "educationHistory": [
+                {
+                    "degreeName": "Bachelor of Engineering - BE",
+                    "fieldOfStudy": "Computer Science and Engineering ",
+                    "linkedInUrl": "https://www.linkedin.com/company/14562167/",
+                    "schoolLogo": "https://media.licdn.com/dms/image/v2/C560BAQEK7coQJmwWjQ/company-logo_400_400/company-logo_400_400/0/1645854670357/nmit_bangalore_logo?e=1748476800&v=beta&t=z67kHwgOo3IoJT-5c3MWckl31ZWEWEuA9jXusbcQ1TM",
+                    "schoolName": "Nitte Meenakshi Institute of Technology",
+                    "startEndDate": {
+                        "start": {
+                            "month": 9,
+                            "year": 2023
+                        },
+                        "end": {
+                            "month": 9,
+                            "year": 2027
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Class 12 CBSE",
+                    "fieldOfStudy": "PCMC",
+                    "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=HMR+International+School",
+                    "schoolLogo": null,
+                    "schoolName": "HMR International School",
+                    "startEndDate": {
+                        "start": {
+                            "month": 3,
+                            "year": 2022
+                        },
+                        "end": {
+                            "month": 4,
+                            "year": 2023
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Class 10 CBSE",
+                    "fieldOfStudy": null,
+                    "linkedInUrl": "https://www.linkedin.com/search/results/all/?keywords=Ravindra+Bharathi+Global+School",
+                    "schoolLogo": null,
+                    "schoolName": "Ravindra Bharathi Global School",
+                    "startEndDate": {
+                        "start": {
+                            "month": 5,
+                            "year": 2021
+                        },
+                        "end": {
+                            "month": null,
+                            "year": null
+                        }
+                    }
+                }
+            ]
+        },
+        "skills": [
+            "Generative AI",
+            "Retrieval-Augmented Generation (RAG)",
+            "Large Language Models (LLM)",
+            "Langchain",
+            "Competitive Programming",
+            "Autodesk Fusion 360",
+            "3D Modeling",
+            "3D Printing",
+            "Machine Learning (Basics)",
+            "Tkinter",
+            "MySQL",
+            "Python (Programming Language)"
+        ],
+        "languages": [],
+        "languagesWithProficiency": [],
+        "recommendations": {
+            "recommendationsCount": 0,
+            "recommendationHistory": []
+        },
+        "certifications": {
+            "certificationsCount": 3,
+            "certificationHistory": [
+                {
+                    "name": "CRYPTEC Coding Battle",
+                    "organizationName": "Nitte Meenakshi Institute of Technology",
+                    "organizationUrl": "https://www.linkedin.com/company/14562167/",
+                    "issuedDate": "Issued Dec 2024"
+                },
+                {
+                    "name": "AI Unchained",
+                    "organizationName": "Nitte Meenakshi Institute of Technology",
+                    "organizationUrl": "https://www.linkedin.com/company/14562167/",
+                    "issuedDate": "Issued Oct 2024"
+                },
+                {
+                    "name": "Additive Manufacturing Designer and Industry 4.0",
+                    "organizationName": "Nitte Meenakshi Institute of Technology",
+                    "organizationUrl": "https://www.linkedin.com/company/14562167/",
+                    "issuedDate": "Issued May 2024"
+                }
+            ]
+        },
+        "testScores": {
+            "testScoresCount": 0,
+            "testScoreHistory": []
+        },
+        "volunteeringExperiences": {
+            "volunteeringExperiencesCount": 0,
+            "volunteeringExperienceHistory": []
+        },
+        "interests": {}
+    },
+    "company": {
+        "linkedInId": "92483465",
+        "name": "HiDevs",
+        "universalName": "hidevs-gen-ai-workforce",
+        "linkedInUrl": "https://www.linkedin.com/company/92483465",
+        "employeeCount": 24,
+        "followerCount": 1434,
+        "employeeCountRange": {
+            "start": 11,
+            "end": 50
+        },
+        "websiteUrl": "https://hidevs.xyz",
+        "tagline": "HiDevs - Gen AI Workforce",
+        "description": "Building a skilled GenAI developer workforce through advanced training, hands-on experience, & mentorship, empowering individuals and unlock career opportunities in tech innovation.",
+        "industry": "Technology, Information and Internet",
+        "phone": null,
+        "specialities": [
+            "Gen AI",
+            "AI",
+            "Machine Learning",
+            "Data Science"
+        ],
+        "headquarter": {
+            "city": "San Francisco",
+            "country": "US",
+            "postalCode": "Headquarters",
+            "geographicArea": "California",
+            "street1": "1427 Crestwood Dr",
+            "street2": null
+        },
+        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGUNHkQxh4vnw/company-logo_400_400/company-logo_400_400/0/1730992031575/hidevs_gen_ai_workforce_logo?e=1748476800&v=beta&t=iWDNgPDK4ktvJxVNJlXyquQ4Rr-LlZoOb19qUj8noP8",
+        "foundedOn": {
+            "year": 2024
+        },
+        "fundingData": null,
+        "backgroundUrl": "https://media.licdn.com/dms/image/v2/D561BAQHLQ982FAchMA/company-background_400/B56ZXXTnX8GQAc-/0/1743073999003/hidevs_gen_ai_workforce_cover?e=1743897600&v=beta&t=qYg9GaA8bNW7rLffkj-QZRFgPyEwEtxk84PyE6XfICQ"
+    }
+}
