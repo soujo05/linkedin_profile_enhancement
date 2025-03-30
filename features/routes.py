@@ -13,12 +13,10 @@ class ProfileRequest(BaseModel):
     profile_url: str  # LinkedIn profile URL
     coursework_phrases: Dict[str, List[str]]  # {Institution Name: [Courses]}
 
-
 class SuggestionsResponse(BaseModel):
     suggestions: dict
 
 # Endpoint: Fetch LinkedIn profile and generate suggestions
-
 
 @router.post("/fetch-and-suggest/", response_model=SuggestionsResponse)
 def fetch_and_generate_suggestions(profile_request: ProfileRequest):
@@ -35,7 +33,6 @@ def fetch_and_generate_suggestions(profile_request: ProfileRequest):
     person_data = profile_data.get("person", {})
     summary = person_data.get("summary", "No summary available.")
 
-    # Extract institutions from Scrapin.io response
     education_list = person_data.get("schools", {}).get("educationHistory", [])
     
     formatted_education = []
