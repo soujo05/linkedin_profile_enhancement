@@ -1,23 +1,18 @@
 import json
-import os
 import requests
 from fastapi import HTTPException
 from dotenv import load_dotenv
 from features.prompts import EDUCATION_PROMPT, GENERAL_PROMPT, EMPTY_SECTION_PROMPT
 from langchain_google_genai import ChatGoogleGenerativeAI
 
-# load_dotenv()
-# Constants
-JSON_FILE_PATH = r"features/retrieved_linkedin_data.json"
-SCRAPIN_API_KEY = "sk_13916974ff66aee3d4768ffb67031c2a17c3a549"
+JSON_FILE_PATH = r"enter your json file path"
+SCRAPIN_API_KEY = "enter scrapin_api_key"
 SCRAPIN_API_URL = "https://api.scrapin.io/enrichment/profile"
 
-# Fetch API Key for Gemini
-gemini_api_key = "AIzaSyCK6YT332KT79i2JvgJ6Jjes76R2I1Dtk8"
+gemini_api_key = "enter your gemini_api_key"
 if not gemini_api_key:
     raise ValueError("GEMINI_API_KEY is not set in environment variables.")
 
-# Optimized LLM configuration
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-flash",
     api_key=gemini_api_key,
