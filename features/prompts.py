@@ -1,6 +1,5 @@
 import json
 
-#  Prompt for the Education Section (Detailed Sentences for Coursework)
 EDUCATION_PROMPT = """
 The user has provided their education details:
 {education_details}
@@ -14,7 +13,6 @@ The user has provided their education details:
 **Example Output:**
 """
 
-#  Prompt for General Sections (Experience, Skills, Volunteer, etc.)
 GENERAL_PROMPT = """
 You are a LinkedIn profile optimization expert. Your task is to enhance the **{section}** section 
 of a professional LinkedIn profile. The current content is:
@@ -36,7 +34,6 @@ of a professional LinkedIn profile. The current content is:
 - Suggestion 4
 """
 
-#  Prompt for Empty Sections (If User Has No Content in a Section)
 EMPTY_SECTION_PROMPT = """
 The **{section}** section is currently empty. Based on the user's summary:  
 "{summary_content}"
